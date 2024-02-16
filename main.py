@@ -6,7 +6,7 @@ from kivy.lang.builder import Builder
 from kivy import platform
 from kivy.app import App
 from kivy.uix.relativelayout import RelativeLayout
-from kivy.properties import NumericProperty, Clock, ObjectProperty
+from kivy.properties import NumericProperty, Clock
 from kivy.graphics import Line, Color
 from kivy.core.window import Window
 
