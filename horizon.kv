@@ -1,0 +1,26 @@
+#: import menu menu
+#: import gameover gameover
+
+HorizonGame:
+
+<HorizonGame>:
+    perspective_point_x: self.width/2
+    perspective_point_y: self.height*0.75
+
+    canvas.before:
+        Rectangle:
+            size: self.size
+            source: "images/bg2.jpg"
+    Label:
+        id: score
+        text: ''
+        font_name: 'fonts/Eurostile.ttf'
+        size_hint: .15, .15
+        font_size: '20dp'
+        pos_hint: {"x": 0, "top": 1}
+
+    GameOver:
+        id: over_menu
+
+    Menu:
+        id: menu_layout
