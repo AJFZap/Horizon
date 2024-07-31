@@ -23,7 +23,7 @@ Future features will add Google play friends list and scores to compete with fri
 * **Deployment:** Buildozer
 
 ## Video Demo
-[![Video Title](https://img.youtube.com/vi/kJwATBgbVLY/0.jpg)](https://www.youtube.com/watch?v=kJwATBgbVLY){:target="_blank"}
+[![Video Title](https://img.youtube.com/vi/kJwATBgbVLY/0.jpg)](https://www.youtube.com/watch?v=kJwATBgbVLY)
 
 ## APK to try for yourself on your phone!
-[MEDIAFIRE-LINK-APK](https://www.mediafire.com/file/7e0y7dc60hqlrby/horizon-0.2-arm64-v8a_armeabi-v7a-debug.apk/file){:target="_blank"}
+[MEDIAFIRE-LINK-APK](https://www.mediafire.com/file/7e0y7dc60hqlrby/horizon-0.2-arm64-v8a_armeabi-v7a-debug.apk/file)
